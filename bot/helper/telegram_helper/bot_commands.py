@@ -2,7 +2,7 @@ class _BotCommands:
     def __init__(self):
         self.StartCommand = 'start'
         self.ListCommand = 's'
-        self.CloneCommand = 'c'
+        self.CloneCommand = 'd'
         self.CountCommand = 'co'
         self.CancelCommand = 'can'
         self.StatusCommand = 'status'
